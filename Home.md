@@ -1,5 +1,7 @@
 ---
 layout: Home
+title: Home
+permalink: /Home/
 ---
 
 # Noah Manuel
