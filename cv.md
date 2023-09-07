@@ -1,6 +1,7 @@
 ---
 layout: page
-Title: Resume
+Title: CV
 permalink: /resume/
 ---
-Here is my CV!
+# CV
+Here is my up to date CV
