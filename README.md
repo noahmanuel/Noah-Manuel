@@ -2,7 +2,7 @@
 Hello! Welcome to my web page! Here you can find helpful information about me, my reseach interests, and other such important information!
 
 
-![alt text](Ginkgo_Biloba.jpg)
+![alt text](Picture.jpg)
 
 
 
@@ -15,4 +15,3 @@ Hello! Welcome to my web page! Here you can find helpful information about me, m
 5. More to Come!
 
    
-hi
