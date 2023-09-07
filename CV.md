@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: CV
-permalink: /cv/
+Title: Resume
+permalink: /resume/
 ---
 Here is my CV!
