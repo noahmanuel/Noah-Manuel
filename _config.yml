@@ -6,6 +6,6 @@ theme: minima
 header_pages:
  - Home.md
  - Research.md
- - CV.md
+ - cv.md
  - Contact.md
  
