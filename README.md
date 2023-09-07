@@ -5,7 +5,6 @@ Hello! Welcome to my web page! Here you can find helpful information about me, m
 
 
 
-![Ginkgo_Biloba](https://github.com/noahmanuel/Noah-Manuel/assets/144372643/fe0bb79d-a9ad-46cc-9d4e-4c59fad26804)
 
 
 ## Research Interests
