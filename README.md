@@ -1,10 +1,3 @@
----
-layout: home
-title: Welcome
-permalink: /welcome/
----
-
-
 # Welcome
 ![alt text](sea.jpg)
 
