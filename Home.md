@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Home
+title: About Me
 permalink: /Home/
 ---
 
 # Noah Manuel
-Hello! Welcome to my web page! Here you can find helpful information about me, my reseach interests, and other such important information!
-
+Hello! My name is Noah Manuel. I'm a biologist and Masters Student in the EEB Department at the University of Connecticut! I'm originally from Newport, Rhode Island where my love of the natural world began by living by the sea!
 
 ![alt text](Picture.jpg)
 
