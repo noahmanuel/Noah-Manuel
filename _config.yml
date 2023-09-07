@@ -1,1 +1,11 @@
+title: Home
+description: Things
 
+theme: minima
+
+header_pages:
+ - Home.md
+ - Research.md
+ - CV.md
+ - Contact.md
+ 
