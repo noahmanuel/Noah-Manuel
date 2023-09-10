@@ -11,3 +11,4 @@ permalink: /research/
    All specimens collected were added to the Saint Anselm College Herbarium and digitized. All images are available on the Conssortium of Northeastern Herbarium website on the Saint Anselm College Page. </p>
 
 ![alt text](herbariumsheet.JPG)
+![alt text](Map of Collections.JPG)
