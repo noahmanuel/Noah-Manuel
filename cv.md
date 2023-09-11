@@ -4,4 +4,4 @@ Title: CV
 permalink: /CV/
 ---
 # CV
-Here is my up to date CV
+Here is my up to date [CV](cv.docx)
