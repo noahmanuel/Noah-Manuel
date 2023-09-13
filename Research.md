@@ -10,7 +10,7 @@ permalink: /research/
    This was the first major flora created of the campus in almost 100 years. My project discoverd that over half of the flowering plants on campus were native to the area, while the other half was introduced to the area with a small percentage of invasive species present.
    All specimens collected were added to the Saint Anselm College Herbarium and digitized. All images are available on the Conssortium of Northeastern Herbarium website on the Saint Anselm College Page. </p>
 
-![alt text](herbariumsheet.JPG)
-![alt text](map.JPG)
+![Image of a Herbarium sheet created during the Saint Anselm College Flora Project](herbariumsheet.JPG)
+![Map of specimen collection sites located on the Saint Anselm College property](map.JPG)
 
 - <p>Masters Thesis Project Under Development! More to come soon!</p>
